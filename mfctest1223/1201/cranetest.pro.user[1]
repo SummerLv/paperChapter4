@@ -1,0 +1,465 @@
+<!DOCTYPE QtCreatorProject>
+<qtcreator>
+ <data>
+  <variable>RunConfiguration0-BaseEnvironmentBase</variable>
+  <value type="int">2</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-CommandLineArguments</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>RunConfiguration0-ProFile</variable>
+  <value type="QString">cranetest.pro</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-RunConfiguration.name</variable>
+  <value type="QString">cranetest</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseDyldImageSuffix</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UseTerminal</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserEnvironmentChanges</variable>
+  <valuelist type="QVariantList"/>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetName</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserSetWorkingDirectory</variable>
+  <value type="bool">false</value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-UserWorkingDirectory</variable>
+  <value type="QString"></value>
+ </data>
+ <data>
+  <variable>RunConfiguration0-type</variable>
+  <value type="QString">Qt4ProjectManager.Qt4RunConfiguration</value>
+ </data>
+ <data>
+  <variable>activeRunConfiguration</variable>
+  <value type="int">0</value>
+ </data>
+ <data>
+  <variable>activebuildconfiguration</variable>
+  <value type="QString">4.7.0 Release</value>
+ </data>
+ <data>
+  <variable>buildConfiguration-4.7.0 Debug</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">4.7.0 Debug</value>
+   <value key="QtVersionId" type="int">3</value>
+   <value key="addQDumper" type=""></value>
+   <value key="buildConfiguration" type="int">2</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildConfiguration-4.7.0 Release</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">4.7.0 Release</value>
+   <value key="QtVersionId" type="int">3</value>
+   <value key="ToolChain" type="int">0</value>
+   <value key="addQDumper" type=""></value>
+   <value key="buildConfiguration" type="int">0</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildConfiguration-Release</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <value key="QtVersionId" type="int">4</value>
+   <value key="ToolChain" type="int">0</value>
+   <value key="addQDumper" type=""></value>
+   <value key="buildConfiguration" type="int">0</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-4.7.0 Debug-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">4.7.0 Debug</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-4.7.0 Debug-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">4.7.0 Debug</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-4.7.0 Debug-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">4.7.0 Debug</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-4.7.0 Release-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">4.7.0 Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-UEpzMlafOA,guid=e38157d9f318f931136fe73500002e15</value>
+    <value type="QString">DESKTOP_SESSION=gnome</value>
+    <value type="QString">DISPLAY=:0</value>
+    <value type="QString">GDMSESSION=gnome</value>
+    <value type="QString">GDM_LANG=zh_CN.UTF-8</value>
+    <value type="QString">GIO_LAUNCHED_DESKTOP_FILE=/usr/local/share/applications/Nokia-QtCreator.desktop</value>
+    <value type="QString">GIO_LAUNCHED_DESKTOP_FILE_PID=2281</value>
+    <value type="QString">GJS_DEBUG_OUTPUT=stderr</value>
+    <value type="QString">GJS_DEBUG_TOPICS=JS ERROR;JS LOG</value>
+    <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString">GNOME_KEYRING_CONTROL=/tmp/keyring-dwubUd</value>
+    <value type="QString">GNOME_KEYRING_PID=1479</value>
+    <value type="QString">GPG_AGENT_INFO=/tmp/keyring-dwubUd/gpg:0:1</value>
+    <value type="QString">HISTCONTROL=ignoredups</value>
+    <value type="QString">HISTSIZE=1000</value>
+    <value type="QString">HOME=/root</value>
+    <value type="QString">HOSTNAME=fedora</value>
+    <value type="QString">IMSETTINGS_INTEGRATE_DESKTOP=yes</value>
+    <value type="QString">IMSETTINGS_MODULE=IBus</value>
+    <value type="QString">LANG=zh_CN.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/opt/qtsdk-2010.01/lib/qtcreator:</value>
+    <value type="QString">LESSOPEN=||/usr/bin/lesspipe.sh %s</value>
+    <value type="QString">LOGNAME=root</value>
+    <value type="QString">MAIL=/var/spool/mail/root</value>
+    <value type="QString">PATH=/usr/local/Trolltech/QtEmbedded-4.7.0-arm/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/opt/FriendlyARM/toolschain/4.5.1/bin:/root/bin</value>
+    <value type="QString">PWD=/root</value>
+    <value type="QString">QTDIR=/usr/local/Trolltech/QtEmbedded-4.7.0-arm</value>
+    <value type="QString">QT_IM_MODULE=xim</value>
+    <value type="QString">SESSION_MANAGER=local/unix:@/tmp/.ICE-unix/1486,unix/unix:/tmp/.ICE-unix/1486</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=1</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-dwubUd/ssh</value>
+    <value type="QString">TERM=dumb</value>
+    <value type="QString">USER=root</value>
+    <value type="QString">USERNAME=root</value>
+    <value type="QString">WINDOWPATH=1</value>
+    <value type="QString">XAUTHORITY=/var/run/gdm/auth-for-root-nm6NMv/database</value>
+    <value type="QString">XDG_RUNTIME_DIR=/run/user/root</value>
+    <value type="QString">XDG_SEAT=seat0</value>
+    <value type="QString">XDG_SESSION_COOKIE=ec59a5b9241306658877c5460000000b-1408792219.34813-1944839033</value>
+    <value type="QString">XDG_SESSION_ID=6</value>
+    <value type="QString">XDG_VTNR=1</value>
+    <value type="QString">XMODIFIERS=@im=ibus</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">/study_project/cranetest  backup140625/cranetest.pro</value>
+    <value type="QString">-spec</value>
+    <value type="QString">/usr/local/Trolltech/QtEmbedded-4.7.0-arm/mkspecs/qws/linux-arm-g++</value>
+    <value type="QString">-r</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/local/Trolltech/QtEmbedded-4.7.0-arm/bin/qmake</value>
+   <value key="abstractProcess.enabled" type="bool">false</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/study_project/cranetest  backup140625</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-4.7.0 Release-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">4.7.0 Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-UEpzMlafOA,guid=e38157d9f318f931136fe73500002e15</value>
+    <value type="QString">DESKTOP_SESSION=gnome</value>
+    <value type="QString">DISPLAY=:0</value>
+    <value type="QString">GDMSESSION=gnome</value>
+    <value type="QString">GDM_LANG=zh_CN.UTF-8</value>
+    <value type="QString">GIO_LAUNCHED_DESKTOP_FILE=/usr/local/share/applications/Nokia-QtCreator.desktop</value>
+    <value type="QString">GIO_LAUNCHED_DESKTOP_FILE_PID=2281</value>
+    <value type="QString">GJS_DEBUG_OUTPUT=stderr</value>
+    <value type="QString">GJS_DEBUG_TOPICS=JS ERROR;JS LOG</value>
+    <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString">GNOME_KEYRING_CONTROL=/tmp/keyring-dwubUd</value>
+    <value type="QString">GNOME_KEYRING_PID=1479</value>
+    <value type="QString">GPG_AGENT_INFO=/tmp/keyring-dwubUd/gpg:0:1</value>
+    <value type="QString">HISTCONTROL=ignoredups</value>
+    <value type="QString">HISTSIZE=1000</value>
+    <value type="QString">HOME=/root</value>
+    <value type="QString">HOSTNAME=fedora</value>
+    <value type="QString">IMSETTINGS_INTEGRATE_DESKTOP=yes</value>
+    <value type="QString">IMSETTINGS_MODULE=IBus</value>
+    <value type="QString">LANG=zh_CN.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/opt/qtsdk-2010.01/lib/qtcreator:</value>
+    <value type="QString">LESSOPEN=||/usr/bin/lesspipe.sh %s</value>
+    <value type="QString">LOGNAME=root</value>
+    <value type="QString">MAIL=/var/spool/mail/root</value>
+    <value type="QString">PATH=/usr/local/Trolltech/QtEmbedded-4.7.0-arm/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/opt/FriendlyARM/toolschain/4.5.1/bin:/root/bin</value>
+    <value type="QString">PWD=/root</value>
+    <value type="QString">QTDIR=/usr/local/Trolltech/QtEmbedded-4.7.0-arm</value>
+    <value type="QString">QT_IM_MODULE=xim</value>
+    <value type="QString">SESSION_MANAGER=local/unix:@/tmp/.ICE-unix/1486,unix/unix:/tmp/.ICE-unix/1486</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=1</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-dwubUd/ssh</value>
+    <value type="QString">TERM=dumb</value>
+    <value type="QString">USER=root</value>
+    <value type="QString">USERNAME=root</value>
+    <value type="QString">WINDOWPATH=1</value>
+    <value type="QString">XAUTHORITY=/var/run/gdm/auth-for-root-nm6NMv/database</value>
+    <value type="QString">XDG_RUNTIME_DIR=/run/user/root</value>
+    <value type="QString">XDG_SEAT=seat0</value>
+    <value type="QString">XDG_SESSION_COOKIE=ec59a5b9241306658877c5460000000b-1408792219.34813-1944839033</value>
+    <value type="QString">XDG_SESSION_ID=6</value>
+    <value type="QString">XDG_VTNR=1</value>
+    <value type="QString">XMODIFIERS=@im=ibus</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">false</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/study_project/cranetest  backup140625</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-4.7.0 Release-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">4.7.0 Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-Ga6iFfjNaa,guid=f4ea583d21eec661cec0404200000036</value>
+    <value type="QString">DESKTOP_SESSION=gnome</value>
+    <value type="QString">DISPLAY=:0.0</value>
+    <value type="QString">GDMSESSION=gnome</value>
+    <value type="QString">GDM_LANG=zh_CN.UTF-8</value>
+    <value type="QString">GIO_LAUNCHED_DESKTOP_FILE=/usr/local/share/applications/Nokia-QtCreator.desktop</value>
+    <value type="QString">GIO_LAUNCHED_DESKTOP_FILE_PID=4292</value>
+    <value type="QString">GJS_DEBUG_OUTPUT=stderr</value>
+    <value type="QString">GJS_DEBUG_TOPICS=JS ERROR;JS LOG</value>
+    <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString">GNOME_KEYRING_CONTROL=/tmp/keyring-9U59FO</value>
+    <value type="QString">GNOME_KEYRING_PID=1359</value>
+    <value type="QString">GPG_AGENT_INFO=/tmp/keyring-9U59FO/gpg:0:1</value>
+    <value type="QString">HISTCONTROL=ignoredups</value>
+    <value type="QString">HISTSIZE=1000</value>
+    <value type="QString">HOME=/root</value>
+    <value type="QString">HOSTNAME=fedora</value>
+    <value type="QString">IMSETTINGS_INTEGRATE_DESKTOP=yes</value>
+    <value type="QString">IMSETTINGS_MODULE=IBus</value>
+    <value type="QString">LANG=zh_CN.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/opt/qtsdk-2010.01/lib/qtcreator:</value>
+    <value type="QString">LESSOPEN=||/usr/bin/lesspipe.sh %s</value>
+    <value type="QString">LOGNAME=root</value>
+    <value type="QString">MAIL=/var/spool/mail/root</value>
+    <value type="QString">PATH=/usr/local/Trolltech/QtEmbedded-4.7.0-arm/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/opt/FriendlyARM/toolschain/4.5.1/bin:/root/bin</value>
+    <value type="QString">PWD=/root</value>
+    <value type="QString">QTDIR=/usr/local/Trolltech/QtEmbedded-4.7.0-arm</value>
+    <value type="QString">QT_IM_MODULE=xim</value>
+    <value type="QString">SESSION_MANAGER=local/unix:@/tmp/.ICE-unix/1366,unix/unix:/tmp/.ICE-unix/1366</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=1</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-9U59FO/ssh</value>
+    <value type="QString">TERM=dumb</value>
+    <value type="QString">USER=root</value>
+    <value type="QString">USERNAME=root</value>
+    <value type="QString">WINDOWPATH=1</value>
+    <value type="QString">XAUTHORITY=/var/run/gdm/auth-for-root-5oyTJt/database</value>
+    <value type="QString">XDG_RUNTIME_DIR=/run/user/root</value>
+    <value type="QString">XDG_SEAT=seat0</value>
+    <value type="QString">XDG_SESSION_COOKIE=ec59a5b9241306658877c5460000000b-1403574272.696993-86418665</value>
+    <value type="QString">XDG_SESSION_ID=2</value>
+    <value type="QString">XDG_VTNR=1</value>
+    <value type="QString">XMODIFIERS=@im=ibus</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">true</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">clean</value>
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/study_project/cranetest</value>
+   <value key="cleanConfig" type="bool">true</value>
+   <valuelist key="makeargs" type="QVariantList">
+    <value type="QString">clean</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-Ga6iFfjNaa,guid=f4ea583d21eec661cec0404200000036</value>
+    <value type="QString">DESKTOP_SESSION=gnome</value>
+    <value type="QString">DISPLAY=:0.0</value>
+    <value type="QString">GDMSESSION=gnome</value>
+    <value type="QString">GDM_LANG=zh_CN.UTF-8</value>
+    <value type="QString">GIO_LAUNCHED_DESKTOP_FILE=/usr/local/share/applications/Nokia-QtCreator.desktop</value>
+    <value type="QString">GIO_LAUNCHED_DESKTOP_FILE_PID=4292</value>
+    <value type="QString">GJS_DEBUG_OUTPUT=stderr</value>
+    <value type="QString">GJS_DEBUG_TOPICS=JS ERROR;JS LOG</value>
+    <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString">GNOME_KEYRING_CONTROL=/tmp/keyring-9U59FO</value>
+    <value type="QString">GNOME_KEYRING_PID=1359</value>
+    <value type="QString">GPG_AGENT_INFO=/tmp/keyring-9U59FO/gpg:0:1</value>
+    <value type="QString">HISTCONTROL=ignoredups</value>
+    <value type="QString">HISTSIZE=1000</value>
+    <value type="QString">HOME=/root</value>
+    <value type="QString">HOSTNAME=fedora</value>
+    <value type="QString">IMSETTINGS_INTEGRATE_DESKTOP=yes</value>
+    <value type="QString">IMSETTINGS_MODULE=IBus</value>
+    <value type="QString">LANG=zh_CN.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/opt/qtsdk-2010.01/lib/qtcreator:</value>
+    <value type="QString">LESSOPEN=||/usr/bin/lesspipe.sh %s</value>
+    <value type="QString">LOGNAME=root</value>
+    <value type="QString">MAIL=/var/spool/mail/root</value>
+    <value type="QString">PATH=/opt/qtsdk-2010.01/qt/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/opt/FriendlyARM/toolschain/4.5.1/bin:/root/bin</value>
+    <value type="QString">PWD=/root</value>
+    <value type="QString">QTDIR=/opt/qtsdk-2010.01/qt</value>
+    <value type="QString">QT_IM_MODULE=xim</value>
+    <value type="QString">SESSION_MANAGER=local/unix:@/tmp/.ICE-unix/1366,unix/unix:/tmp/.ICE-unix/1366</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=1</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-9U59FO/ssh</value>
+    <value type="QString">TERM=dumb</value>
+    <value type="QString">USER=root</value>
+    <value type="QString">USERNAME=root</value>
+    <value type="QString">WINDOWPATH=1</value>
+    <value type="QString">XAUTHORITY=/var/run/gdm/auth-for-root-5oyTJt/database</value>
+    <value type="QString">XDG_RUNTIME_DIR=/run/user/root</value>
+    <value type="QString">XDG_SEAT=seat0</value>
+    <value type="QString">XDG_SESSION_COOKIE=ec59a5b9241306658877c5460000000b-1403574272.696993-86418665</value>
+    <value type="QString">XDG_SESSION_ID=2</value>
+    <value type="QString">XDG_VTNR=1</value>
+    <value type="QString">XMODIFIERS=@im=ibus</value>
+   </valuelist>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">/study_project/cranetest/cranetest.pro</value>
+    <value type="QString">-r</value>
+    <value type="QString">-spec</value>
+    <value type="QString">../../qtsdk-2010.01/qt/mkspecs/linux-g++</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/opt/qtsdk-2010.01/qt/bin/qmake</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/study_project/cranetest</value>
+   <valuelist key="qmakeArgs" type="QVariantList">
+    <value type="QString">-spec</value>
+    <value type="QString">../../qtsdk-2010.01/qt/mkspecs/linux-g++</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfiguration-Release-cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString">Release</value>
+   <valuelist key="abstractProcess.Environment" type="QVariantList">
+    <value type="QString">DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-Ga6iFfjNaa,guid=f4ea583d21eec661cec0404200000036</value>
+    <value type="QString">DESKTOP_SESSION=gnome</value>
+    <value type="QString">DISPLAY=:0.0</value>
+    <value type="QString">GDMSESSION=gnome</value>
+    <value type="QString">GDM_LANG=zh_CN.UTF-8</value>
+    <value type="QString">GIO_LAUNCHED_DESKTOP_FILE=/usr/local/share/applications/Nokia-QtCreator.desktop</value>
+    <value type="QString">GIO_LAUNCHED_DESKTOP_FILE_PID=4292</value>
+    <value type="QString">GJS_DEBUG_OUTPUT=stderr</value>
+    <value type="QString">GJS_DEBUG_TOPICS=JS ERROR;JS LOG</value>
+    <value type="QString">GNOME_DESKTOP_SESSION_ID=this-is-deprecated</value>
+    <value type="QString">GNOME_KEYRING_CONTROL=/tmp/keyring-9U59FO</value>
+    <value type="QString">GNOME_KEYRING_PID=1359</value>
+    <value type="QString">GPG_AGENT_INFO=/tmp/keyring-9U59FO/gpg:0:1</value>
+    <value type="QString">HISTCONTROL=ignoredups</value>
+    <value type="QString">HISTSIZE=1000</value>
+    <value type="QString">HOME=/root</value>
+    <value type="QString">HOSTNAME=fedora</value>
+    <value type="QString">IMSETTINGS_INTEGRATE_DESKTOP=yes</value>
+    <value type="QString">IMSETTINGS_MODULE=IBus</value>
+    <value type="QString">LANG=zh_CN.UTF-8</value>
+    <value type="QString">LD_LIBRARY_PATH=/opt/qtsdk-2010.01/lib/qtcreator:</value>
+    <value type="QString">LESSOPEN=||/usr/bin/lesspipe.sh %s</value>
+    <value type="QString">LOGNAME=root</value>
+    <value type="QString">MAIL=/var/spool/mail/root</value>
+    <value type="QString">PATH=/opt/qtsdk-2010.01/qt/bin:/usr/local/sbin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/bin:/opt/FriendlyARM/toolschain/4.5.1/bin:/root/bin</value>
+    <value type="QString">PWD=/root</value>
+    <value type="QString">QTDIR=/opt/qtsdk-2010.01/qt</value>
+    <value type="QString">QT_IM_MODULE=xim</value>
+    <value type="QString">SESSION_MANAGER=local/unix:@/tmp/.ICE-unix/1366,unix/unix:/tmp/.ICE-unix/1366</value>
+    <value type="QString">SHELL=/bin/bash</value>
+    <value type="QString">SHLVL=1</value>
+    <value type="QString">SSH_AUTH_SOCK=/tmp/keyring-9U59FO/ssh</value>
+    <value type="QString">TERM=dumb</value>
+    <value type="QString">USER=root</value>
+    <value type="QString">USERNAME=root</value>
+    <value type="QString">WINDOWPATH=1</value>
+    <value type="QString">XAUTHORITY=/var/run/gdm/auth-for-root-5oyTJt/database</value>
+    <value type="QString">XDG_RUNTIME_DIR=/run/user/root</value>
+    <value type="QString">XDG_SEAT=seat0</value>
+    <value type="QString">XDG_SESSION_COOKIE=ec59a5b9241306658877c5460000000b-1403574272.696993-86418665</value>
+    <value type="QString">XDG_SESSION_ID=2</value>
+    <value type="QString">XDG_VTNR=1</value>
+    <value type="QString">XMODIFIERS=@im=ibus</value>
+   </valuelist>
+   <value key="abstractProcess.IgnoreReturnValue" type="bool">true</value>
+   <valuelist key="abstractProcess.arguments" type="QVariantList">
+    <value type="QString">clean</value>
+    <value type="QString">-w</value>
+   </valuelist>
+   <value key="abstractProcess.command" type="QString">/usr/bin/make</value>
+   <value key="abstractProcess.enabled" type="bool">true</value>
+   <value key="abstractProcess.workingDirectory" type="QString">/study_project/cranetest</value>
+   <value key="cleanConfig" type="bool">true</value>
+   <valuelist key="makeargs" type="QVariantList">
+    <value type="QString">clean</value>
+   </valuelist>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildconfigurations</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">Release</value>
+   <value type="QString">4.7.0 Debug</value>
+   <value type="QString">4.7.0 Release</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>buildstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="mkspec" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildstep1</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>buildsteps</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">trolltech.qt4projectmanager.qmake</value>
+   <value type="QString">trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>cleanstep0</variable>
+  <valuemap type="QVariantMap">
+   <value key="ProjectExplorer.BuildConfiguration.DisplayName" type="QString"></value>
+   <value key="clean" type="bool">true</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>cleansteps</variable>
+  <valuelist type="QVariantList">
+   <value type="QString">trolltech.qt4projectmanager.make</value>
+  </valuelist>
+ </data>
+ <data>
+  <variable>defaultFileEncoding</variable>
+  <value type="QByteArray">System</value>
+ </data>
+ <data>
+  <variable>project</variable>
+  <valuemap type="QVariantMap"/>
+ </data>
+</qtcreator>

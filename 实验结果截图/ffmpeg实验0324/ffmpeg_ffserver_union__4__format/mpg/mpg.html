@@ -1,0 +1,26 @@
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252"><title>ffserver Status</title>
+</head>
+<body><h1>ffserver Status</h1>
+<h2>Available Streams</h2>
+<table cellpadding="4" cellspacing="0">
+<tbody><tr><th valign="top">Path</th><th align="left">Served<br>Conns</th><th><br>bytes</th><th valign="top">Format</th><th>Bit rate<br>kbits/s</th><th align="left">Video<br>kbits/s</th><th><br>Codec</th><th align="left">Audio<br>kbits/s</th><th><br>Codec</th><th align="left" valign="top">Feed
+</th></tr><tr><td><a href="http://192.168.5.188:8090/live.mpg">live.mpg</a> </td><td align="right"> 1 </td><td align="right"> 29896k</td><td align="center"> mpeg </td><td align="right"> 800 </td><td align="right"> 800 </td><td> mpeg1video  </td><td align="right"> 0 </td><td>  </td><td>feed1.ffm
+</td></tr><tr><td><a href="http://192.168.5.188:8090/stat.html">stat.html</a> </td><td align="right"> 1 </td><td align="right"> 0 </td><td align="center"> - </td><td align="right"> - </td><td align="right"> - </td><td></td><td align="right"> - </td><td>
+</td></tr></tbody></table>
+<h2>Feed feed1.ffm</h2><table cellpadding="4" cellspacing="0"><tbody><tr><th>Stream</th><th>type</th><th>kbits/s</th><th align="left">codec</th><th align="left">Parameters
+</th></tr><tr><td align="right">0</td><td>video</td><td align="right">800</td><td>mpeg1video</td><td>640x480, q=2-31, fps=25
+</td></tr></tbody></table>
+<h2>Connection Status</h2>
+Number of connections: 3 / 1000<br>
+Bandwidth in use: 800k / 100000k<br>
+<table>
+<tbody><tr><th>#</th><th>File</th><th>IP</th><th>Proto</th><th>State</th><th>Target bits/sec</th><th>Actual bits/sec</th><th>Bytes transferred
+</th></tr><tr><td><b>1</b></td><td>stat.html</td><td>192.168.5.166</td><td>HTTP/1.1</td><td>HTTP_WAIT_REQUEST</td><td align="right">0 </td><td align="right">0 </td><td align="right">0 
+</td></tr><tr><td><b>2</b></td><td>feed1.ffm(input)</td><td>127.0.0.1</td><td>HTTP/1.1</td><td>RECEIVE_DATA</td><td align="right">800k</td><td align="right">814k</td><td align="right">29954k
+</td></tr><tr><td><b>3</b></td><td>live.mpg</td><td>192.168.5.155</td><td>HTTP/1.1</td><td>WAIT_FEED</td><td align="right">800k</td><td align="right">802k</td><td align="right">29896k
+</td></tr></tbody></table>
+<hr noshade="noshade" size="1">Generated at Thu Mar 24 14:56:32 2016
+
+
+</body></html>
